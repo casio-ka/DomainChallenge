@@ -1,8 +1,7 @@
-package com.esusu.pages;
+package com.automationtraining.pages;
 
-import com.esusu.utilities.ConfigReader;
-import com.esusu.utilities.Driver;
-import org.openqa.selenium.By;
+import com.automationtraining.utilities.ConfigReader;
+import com.automationtraining.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

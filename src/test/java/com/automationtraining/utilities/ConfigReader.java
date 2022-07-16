@@ -1,4 +1,4 @@
-package com.esusu.utilities;
+package com.automationtraining.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;

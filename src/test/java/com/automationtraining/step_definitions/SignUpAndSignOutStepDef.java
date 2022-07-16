@@ -1,16 +1,14 @@
-package com.esusu.step_definitions;
+package com.automationtraining.step_definitions;
 
-import com.esusu.pages.SignUpAndSignOut;
-import com.esusu.utilities.BrowserUtil;
-import com.esusu.utilities.ConfigReader;
-import com.esusu.utilities.Driver;
+import com.automationtraining.pages.SignUpAndSignOut;
+import com.automationtraining.utilities.BrowserUtil;
+import com.automationtraining.utilities.ConfigReader;
+import com.automationtraining.utilities.Driver;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
 import com.github.javafaker.Faker;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;

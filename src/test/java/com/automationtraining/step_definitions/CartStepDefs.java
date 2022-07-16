@@ -1,10 +1,9 @@
-package com.esusu.step_definitions;
+package com.automationtraining.step_definitions;
 
-import com.esusu.pages.Add2ItemsToCart;
-import com.esusu.pages.Login;
-import com.esusu.pages.SignUpAndSignOut;
-import com.esusu.utilities.BrowserUtil;
-import com.esusu.utilities.ConfigReader;
+import com.automationtraining.pages.Add2ItemsToCart;
+import com.automationtraining.pages.Login;
+import com.automationtraining.pages.SignUpAndSignOut;
+import com.automationtraining.utilities.BrowserUtil;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -23,7 +22,7 @@ public class CartStepDefs {
 
         signUp.goTo();
         signUp.signinto.click();
-        BrowserUtil.waitFor(2);
+        BrowserUtil.waitFor(4);
 
         log = new Login();
         log.login("jamesmaina1@gmail.com","anonymous");

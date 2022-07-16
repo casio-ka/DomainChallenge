@@ -1,4 +1,4 @@
-package com.esusu.utilities;
+package com.automationtraining.utilities;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.TimeoutException;

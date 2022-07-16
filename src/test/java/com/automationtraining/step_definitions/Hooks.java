@@ -1,6 +1,6 @@
-package com.esusu.step_definitions;
+package com.automationtraining.step_definitions;
 
-import com.esusu.utilities.Driver;
+import com.automationtraining.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

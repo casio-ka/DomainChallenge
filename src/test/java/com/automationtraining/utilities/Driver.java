@@ -1,4 +1,4 @@
-package com.esusu.utilities;
+package com.automationtraining.utilities;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;

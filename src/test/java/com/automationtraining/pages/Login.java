@@ -1,7 +1,7 @@
-package com.esusu.pages;
+package com.automationtraining.pages;
 
-import com.esusu.utilities.BrowserUtil;
-import com.esusu.utilities.Driver;
+import com.automationtraining.utilities.BrowserUtil;
+import com.automationtraining.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
